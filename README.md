@@ -1,10 +1,13 @@
 # 🎵 HitPredictor | AI-Driven Music Analytics
 
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws)
 ![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
 ![React](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react)
 ![Pandas](https://img.shields.io/badge/Data-Pandas-150458?style=for-the-badge&logo=pandas)
+
+> **Note:** This project is currently under active development. Features and architecture are subject to improvements as part of an ongoing Data Science specialization.
 
 ## 🚀 Project Overview
 
